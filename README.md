@@ -10,7 +10,10 @@
 
 ## Pitch Deck
 
-## Trello
+## Planning
+Trello  
+ERD  
+![ERD](../master/images/snack-stalker.png)
 
 ## Getting Started
 Instructions  
