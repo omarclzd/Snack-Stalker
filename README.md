@@ -11,7 +11,7 @@
 ## Pitch Deck
 
 ## Planning
-Trello  
+Trello -  [Trello](https://trello.com/b/HEPtOEQr/unit-3-project-hackathon) 
 ERD  
 ![ERD](../master/images/snack-stalker-erd.png)
 
