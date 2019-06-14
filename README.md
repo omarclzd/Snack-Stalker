@@ -13,7 +13,7 @@
 ## Planning
 Trello  
 ERD  
-![ERD](../master/images/snack-stalker.png)
+![ERD](../master/images/snack-stalker-erd.png)
 
 ## Getting Started
 Instructions  
